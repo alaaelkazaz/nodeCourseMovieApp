@@ -1,0 +1,5 @@
+{
+    "name":"Vidly Movie Store",
+    "JwtPrivateKey":"",
+    "db": "mongodb://localhost/genres"
+}
